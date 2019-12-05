@@ -2,4 +2,4 @@
 
 Press space to jump
 
-![sreenshot][https://filebin.net/ka3i6pyzmirgzis5]
+![screenshot](https://filebin.net/ka3i6pyzmirgzis5)
